@@ -1,0 +1,6 @@
+{
+  "name": "AnchorDesk",
+  "description": "A university priority triage, daily energy budget, and phone-time reclaim workspace for high-leverage focus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
